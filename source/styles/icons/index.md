@@ -15,7 +15,7 @@ To use these icons on the desktop, check out the [cheatsheet][4].
       PatternFly Icons
     </h2>
     <p>
-      Custom icons and selections from <a href="http://icomoon.io/#icons">IcoMoon &#8211; Free</a>.
+      Custom icons and selections from <a href="http://icomoon.io/#icons">IcoMoon &#8211; Free</a>. You may also [download these icon SVGs](patternfly_svg_icons.zip), if needed  
     </p>
     <ul class="icons list-unstyled">
       <li>
